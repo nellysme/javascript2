@@ -1,0 +1,19 @@
+{
+  "name": "javascript2",
+  "version": "0.0.1",
+  "description": "a social media platform that has been build with js, scss and bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nellysme/javascript2.git"
+  },
+  "author": "Nelly Smedsrud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nellysme/javascript2/issues"
+  },
+  "homepage": "https://github.com/nellysme/javascript2#readme"
+}
